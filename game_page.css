@@ -1,0 +1,41 @@
+#score_division{
+    margin: 10px;
+}
+
+#player_1_label, #player_2_label{
+    font-size: medium;
+    color: brown;
+    font-weight: bold;
+}
+
+#background_img{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200530/pngtree-cute-hand-drawn-style-mathematics-education-pink-plaid-background-image_337364.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: brown;
+    font-weight: bold;
+}
+
+#output_division{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#question_player, #answer_player{
+    font-size: larger;
+}
+
+.number_label{
+    font-size: large;
+}
+
+#send_button{
+    margin: 20px;
+}
